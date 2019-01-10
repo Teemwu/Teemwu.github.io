@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>五更</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nooby.cn/"/>
+  <updated>2019-01-07T13:54:37.816Z</updated>
+  <id>https://nooby.cn/</id>
+  
+  <author>
+    <name>五更</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 个人博客搭建</title>
+    <link href="https://nooby.cn/2019/01/02/Hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>https://nooby.cn/2019/01/02/Hexo-个人博客搭建/</id>
+    <published>2019-01-02T04:01:59.000Z</published>
+    <updated>2019-01-07T13:54:37.816Z</updated>
+    
+    <content type="html"><![CDATA[<p>老早就想搭建一个属于自己的个人博客了，之前也弄过一个，后台到前端完全原生自主编写，可是终究还是太年轻，很多东西都不会，也不懂得坚持，慢慢就荒废了。加上几次的服务器变更，再加上工作没精力打理，之前的个人博客已经完全荒废了。经过18年一年时间的沉淀，决定再次搭建一个属于自己的博客了，之前一直在博客园潜水，平时也没怎么输出，记录几个随笔。19年，决定好好地写一下博客。计划每周写一篇吧，以周为单位，不断吸取新的东西，整理输出。</p><a id="more"></a><h2 id="Hexo-安装"><a href="#Hexo-安装" class="headerlink" title="Hexo 安装"></a>Hexo 安装</h2><p>待续。。。</p><p><img src="/images/165c7221da737579.png" alt="Test Image"></p><p><a href="https://github.com/SeayXu" title="SeayXu" target="_blank" rel="noopener"><img src="https://help.github.com/assets/images/site/favicon.ico" alt="Github" title="Seay"></a></p><image src="http://pkncw7q4r.bkt.clouddn.com/noobyBlogPic/1659f05d34ea8d9d.gif" data-qiniu=""></image>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;老早就想搭建一个属于自己的个人博客了，之前也弄过一个，后台到前端完全原生自主编写，可是终究还是太年轻，很多东西都不会，也不懂得坚持，慢慢就荒废了。加上几次的服务器变更，再加上工作没精力打理，之前的个人博客已经完全荒废了。经过18年一年时间的沉淀，决定再次搭建一个属于自己的博客了，之前一直在博客园潜水，平时也没怎么输出，记录几个随笔。19年，决定好好地写一下博客。计划每周写一篇吧，以周为单位，不断吸取新的东西，整理输出。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://nooby.cn/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
