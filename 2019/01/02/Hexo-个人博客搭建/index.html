@@ -444,6 +444,9 @@
       
  <!-- valine Comments -->
  <script src="//unpkg.com/valine/dist/Valine.min.js">
+        </script>
+ <script type="text/javascript">
+    function isLoaded(){
         console.log('go....')
         new Valine({
            el: '#vcomments',
@@ -453,12 +456,10 @@
            app_key: "t86JW8YQRfDm6QWddXkceyfj",
            placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
            avatar: 'retro'
-        })</script>
- <script type="text/javascript">
-    alert(window.onload)
-    window.addEventListener("load",function(){
-        
-    });
+        })
+        clearInterval(timer)
+    }
+    var timer=setInterval(Valine?isLoaded:'',100)
  </script>
  
    
