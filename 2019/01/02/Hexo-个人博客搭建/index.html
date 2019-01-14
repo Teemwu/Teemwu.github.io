@@ -445,15 +445,17 @@
  <!-- valine Comments -->
  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
  <script type="text/javascript">
-     new Valine({
-         el: '#vcomments',
-         notify: false,
-         verify: true,
-         app_id: "Wbvnb64grXBFFpX3msLm4bez-gzGzoHsz",
-         app_key: "t86JW8YQRfDm6QWddXkceyfj",
-         placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
-         avatar: 'retro'
-     });
+     window.onload=function(){
+         new Valine({
+            el: '#vcomments',
+            notify: false,
+            verify: true,
+            app_id: "Wbvnb64grXBFFpX3msLm4bez-gzGzoHsz",
+            app_key: "t86JW8YQRfDm6QWddXkceyfj",
+            placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
+            avatar: 'retro'
+        })
+     }
  </script>
  
    
