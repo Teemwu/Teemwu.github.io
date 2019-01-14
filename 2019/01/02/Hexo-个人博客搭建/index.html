@@ -445,21 +445,18 @@
  <!-- valine Comments -->
  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
  <script type="text/javascript">
- $(window).on('load',function(){
-     console.log('window')
- })
-     window.onload=function(){
-         console.log('go....')
-         new Valine({
-            el: '#vcomments',
-            notify: false,
-            verify: true,
-            app_id: "Wbvnb64grXBFFpX3msLm4bez-gzGzoHsz",
-            app_key: "t86JW8YQRfDm6QWddXkceyfj",
-            placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
-            avatar: 'retro'
+    $(window).on('load',function(){
+        console.log('go....')
+        new Valine({
+           el: '#vcomments',
+           notify: false,
+           verify: true,
+           app_id: "Wbvnb64grXBFFpX3msLm4bez-gzGzoHsz",
+           app_key: "t86JW8YQRfDm6QWddXkceyfj",
+           placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
+           avatar: 'retro'
         })
-     }
+    });
  </script>
  
    
