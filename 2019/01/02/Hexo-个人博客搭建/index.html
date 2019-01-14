@@ -445,8 +445,7 @@
  <!-- valine Comments -->
  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
  <script type="text/javascript">
-    function isLoaded(){
-        console.log('go....')
+    var timer=setInterval((typeof Valine)==='undefined'?'':(function(){
         new Valine({
            el: '#vcomments',
            notify: false,
@@ -457,9 +456,7 @@
            avatar: 'retro'
         })
         clearInterval(timer)
-    }
-    console.log(typeof Valine)
-    var timer=setInterval((typeof Valine)==='undefined'?'':isLoaded,100)
+    })(),100)
  </script>
  
    
