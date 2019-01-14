@@ -458,7 +458,8 @@
         })
         clearInterval(timer)
     }
-    var timer=setInterval((typeof Valine)==='undefinded'?'':isLoaded,100)
+    console.log(typeof Valine)
+    var timer=setInterval((typeof Valine)==='undefined'?'':isLoaded,100)
  </script>
  
    
