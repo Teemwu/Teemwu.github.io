@@ -445,6 +445,9 @@
  <!-- valine Comments -->
  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
  <script type="text/javascript">
+ $(document).load(function(){
+     console.log('document')
+ })
      window.onload=function(){
          console.log('go....')
          new Valine({
