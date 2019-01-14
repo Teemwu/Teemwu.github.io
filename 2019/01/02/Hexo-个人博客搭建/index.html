@@ -443,8 +443,7 @@
    
       
  <!-- valine Comments -->
- <script src="//unpkg.com/valine/dist/Valine.min.js">
-        </script>
+ <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
  <script type="text/javascript">
     function isLoaded(){
         console.log('go....')
@@ -459,7 +458,7 @@
         })
         clearInterval(timer)
     }
-    var timer=setInterval(!!Valine?isLoaded:'',100)
+    var timer=setInterval((typeof Valine)==='undefinded'?'':isLoaded,100)
  </script>
  
    
