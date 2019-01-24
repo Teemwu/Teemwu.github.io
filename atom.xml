@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nooby.cn/"/>
-  <updated>2019-01-14T03:57:49.122Z</updated>
+  <updated>2019-01-24T13:54:26.806Z</updated>
   <id>https://nooby.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>读书笔记-简约至上</title>
+    <link href="https://nooby.cn/2019/01/24/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E7%AE%80%E7%BA%A6%E8%87%B3%E4%B8%8A/"/>
+    <id>https://nooby.cn/2019/01/24/读书笔记-简约至上/</id>
+    <published>2019-01-24T13:19:47.000Z</published>
+    <updated>2019-01-24T13:54:26.806Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/Teemwu/images/master/blog/s4592217.jpg" alt="简约至上"></p><p>先立个flag，有空再写。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Teemwu/images/master/blog/s4592217.jpg&quot; alt=&quot;简约至上&quot;&gt;&lt;/p&gt;
+&lt;p&gt;先立个flag，有空再写。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo 个人博客搭建</title>
